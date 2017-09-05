@@ -1,2 +1,2 @@
-# PramodaSahu
+# Pramoda Sahu
 HackerEarthDeepLearningChallange
